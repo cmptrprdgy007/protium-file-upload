@@ -62,7 +62,7 @@ class _HomeState extends State<Home> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Text(
-              " File upload to firebase backend which supports uploading of files more than 30MB to 150MB ",
+              " File upload to firebase backend which supports uploading of files maximum of 150MB ",
               style: TextStyle(
                 fontSize: 15,
                 color: Colors.black,
