@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33920371324",
+    "project_id": "newg-35f83",
+    "storage_bucket": "newg-35f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33920371324:android:d02e01fa5520d5b8b497f9",
+        "android_client_info": {
+          "package_name": "com.example.protiumm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33920371324-pgrfv6nna40ei565rh7rj6ou7jq9rhtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMAcHILKVGevYE1urfhLgalzGeUivRHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33920371324-pgrfv6nna40ei565rh7rj6ou7jq9rhtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
